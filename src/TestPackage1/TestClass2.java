@@ -39,6 +39,7 @@ public class TestClass2 {
 		PWd.sendKeys("Password@1");
 		Thread.sleep(3000);
 		loginbutton.click();
+		Thread.sleep(3000);
 
 		driver.quit();
 	}
