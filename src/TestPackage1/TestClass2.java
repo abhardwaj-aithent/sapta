@@ -42,6 +42,7 @@ public class TestClass2 {
 		Thread.sleep(3000);
 
 		driver.quit();
+		Thread.sleep(1000);
 	}
 
 }
