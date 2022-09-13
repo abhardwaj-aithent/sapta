@@ -46,6 +46,7 @@ public class SeleniumTest   {
 		
 	else {
 		System.out.println("Not able to Execute js ");
+		System.out.println("Hi to test only");
 	}
 		
 	}
