@@ -41,7 +41,7 @@ public class TestClass2 {
 		loginbutton.click();
 		Thread.sleep(3000);
 
-		driver.quit();
+		driver.close();
 		Thread.sleep(1000);
 	}
 
